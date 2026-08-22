@@ -2,9 +2,7 @@
 
 Browser-only TOTP generator. Paste a Base32 secret or an `otpauth://` URI and read the current 6-digit code plus the next 30-second window.
 
-**GitHub Pages:** [accstall.github.io/accstall-2fa-generator](https://accstall.github.io/accstall-2fa-generator/)
-
-**Accstall.com:** [accstall.com/en/tools/2fa-generator](https://accstall.com/en/tools/2fa-generator)
+**Live demo:** [accstall.com/en/tools/2fa-generator](https://accstall.com/en/tools/2fa-generator)
 
 ## Privacy contract
 
