@@ -1,0 +1,10 @@
+{
+  "name": "accstall-2fa-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Browser-only TOTP / 2FA generator (SHA1, 6 digits, 30 seconds).",
+  "scripts": {
+    "test": "node test/vectors.js"
+  }
+}
